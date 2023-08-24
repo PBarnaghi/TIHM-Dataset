@@ -11,7 +11,7 @@
 TIHM: An open dataset for remote healthcare monitoring in dementia.
 The dataset is available on its corresponding [Zenodo repository](https://zenodo.org/record/7622128).
 
-The dataset is provided for research and cannot be used for commercial purposes. 
+The dataset is provided for research purposes and supporting patient care. 
 
 Please acknowledge the Surrey and Borders Partnership NHS Foundation Trust in any publication or use of this dataset. 
 
