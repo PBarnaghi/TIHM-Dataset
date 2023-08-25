@@ -8,6 +8,8 @@
   * [Running the code](#running-the-code)
   
 # TIHM-Dataset
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7622128.svg)](https://doi.org/10.5281/zenodo.7622128) 
+<br/>
 TIHM: An open dataset for remote healthcare monitoring in dementia.
 The dataset is available on its corresponding [Zenodo repository](https://zenodo.org/record/7622128).
 
