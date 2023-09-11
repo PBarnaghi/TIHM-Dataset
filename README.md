@@ -13,6 +13,7 @@
 
 TIHM: An open dataset for remote healthcare monitoring in dementia.
 The dataset is available on its corresponding [Zenodo repository](https://zenodo.org/record/7622128).
+The full description of this dataset is published in Nature Scientific Data: [paper](https://doi.org/10.1038/s41597-023-02519-y)
 
 The dataset is provided for research purposes and supporting patient care. 
 
