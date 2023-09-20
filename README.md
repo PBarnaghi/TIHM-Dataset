@@ -82,4 +82,4 @@ After creating and activating the virtual environment, each notebook can be run 
 DPATH = '../Dataset/'
 ```
 *  *  *  *  *
-_This repository is maintained and updated by the [Translational Machine Intelligence](https://ukdri.ac.uk/team/payam-barnaghi) Group at the UK Dementia Research Institute, Care Research and Technology Centre._
+
