@@ -17,7 +17,7 @@ The full description of this dataset is published in Nature Scientific Data: [pa
 
 The dataset is provided for research purposes and supporting patient care. 
 
-Please acknowledge the Surrey and Borders Partnership NHS Foundation Trust in any publication or use of this dataset. 
+Please acknowledge the Surrey and Borders Partnership NHS Foundation Trust and Howz in any publication or use of this dataset. 
 
 
 ## Summary of Data Records
